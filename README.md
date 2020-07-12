@@ -9,7 +9,7 @@ I like to keep busy learning new things (like [Ansible](https://www.ansible.com/
 I've also been known to:
 * watch a good ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/film-line.png) or ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/tv-2-line.png) show
 * read a good ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/book-line.png)
-* play a game or two on my ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/playstation-fill/png)
+* play a game or two on my ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/playstation-fill.png)
 (feel free to ask me for recommendations)
 
 Occasionally, I'll even post about my exploits on my [![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/file-edit-;line.png)](https://hunleuyd.github.io)
