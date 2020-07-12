@@ -1,3 +1,4 @@
+```json
 {
   "name": "douglas j hunley",
   "pronouns": [
@@ -14,3 +15,4 @@
     }
    ]
 }
+```
