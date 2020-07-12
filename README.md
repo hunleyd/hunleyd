@@ -4,7 +4,7 @@
 <i>Hi, I'm Doug. Nice to meet you!</i>
 </p>
 
-I like to keep busy learning new things (like [Ansible](https://www.ansible.com/)), working with [PostgreSQL](https://www.postgresql.org/) ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/database-2-line.png), automating my ![](https:////raw.githubusercontent.com/hunleyd/master/home-gear-line.png) with [Home Assistant](https://www.home-assistant.io/), or breaking my ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/ubuntu-fill.png) box in new an interesting ways.
+I like to keep busy learning new things (like [Ansible](https://www.ansible.com/)), working with [PostgreSQL](https://www.postgresql.org/) ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/database-2-line.png), automating my ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/home-gear-line.png) with [Home Assistant](https://www.home-assistant.io/), or breaking my ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/ubuntu-fill.png) box in new an interesting ways.
 
 I've also been known to:
 * watch a good ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/film-line.png) or ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/tv-2-line.png) show
