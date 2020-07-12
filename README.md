@@ -1,5 +1,16 @@
-person:  
-  name: Douglas J Hunley  
-  pronouns: he/him  
-  blog: [hunleyd.github.io](https://hunleyd.github.io)  
-  twitter: [@hunleyd](https://twitter.com/hunleyd)  
+{
+  "name": "douglas j hunley",
+  "pronouns": [
+    {
+      "he",
+      "him"
+     }
+   ].
+  "email": "doug.hunley@gmail.com",
+  "social": [
+    {
+        "blog": "https://hunleyd.github.io/",
+        "twitter": "@hunleyd"
+    }
+   ]
+}
