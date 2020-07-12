@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/Word%20Art.png)
+![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/Lens.png)
 
 <!--
 			<div class="wordart" data-wordart-src=""></div>
