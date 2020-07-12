@@ -1,16 +1,3 @@
-{  
-  "name": "douglas j hunley",  
-  "pronouns": [  
-    {  
-      "he",  
-      "him"  
-    }  
-  ],  
-  "email": "doug.hunley@gmail.com",  
-  "social": [  
-    {  
-      "blog": "https://hunleyd.github.io/",  
-      "twitter": "@hunleyd"  
-    }  
-  ]  
-}  
+## About
+
+| Douglas J Hunley | he / him | doug.hunley@gmail.com |
