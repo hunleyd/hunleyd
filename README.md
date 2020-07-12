@@ -16,10 +16,7 @@ I've also been known to:
 Occasionally, I'll even post about my exploits on my [![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/file-edit-;line.png)](https://hunleuyd.github.io)
 
 <p align=center>
-[![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/linkedin-box-fill.png)](https://www.linkedin.com/in/dhunley)
-[![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/twitter-fill.png)](https://twitter.com/hunleyd)
-[![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/instagram-fill.png)](https://www.instagram.com/doughunley)
-[![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/github-fill.png)](https://github.com/hunleyd)
+<a href="https://www.linkedin.com/in/dhunley"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/linkedin-box-fill.png"></a> <a href="https://twitter.com/hunleyd"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/twitter-fill.png"></a> <a href="https://www.instagram.com/doughunley"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/instagram-fill.png"></a> <a href="https://github.com/hunleyd"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/github-fill.png"></a>
 </p>
 
 ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/hero_footer.jpg)
