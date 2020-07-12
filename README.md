@@ -1,3 +1,5 @@
 ## About
 
-Douglas J Hunley :eight_spoked_asterisk: he / him :eight_spoked_asterisk: doug.hunley@gmail.com
+Douglas J Hunley :sagittarius:   
+:low_brightness: he / him  
+:low_brightness: doug.hunley@gmail.com  
