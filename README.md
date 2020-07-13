@@ -13,7 +13,7 @@ I've also been known to:
 
 (feel free to ask me for recommendations)
 
-Occasionally, I'll even ![](https:                                     \\  //raw.githubusercontent.com/hunleyd/hunleyd/master/file-edit-line.png) about my exploits on my [blog](https://hunleyd.github.io)
+Occasionally, I'll even ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/file-edit-line.png) about my exploits on my [blog](https://hunleyd.github.io)
 
 <p align=center>
 <a href="https://www.linkedin.com/in/dhunley"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/linkedin-box-fill.png"></a> <a href="https://twitter.com/hunleyd"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/twitter-fill.png"></a> <a href="https://www.instagram.com/doughunley"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/instagram-fill.png"></a> <a href="https://github.com/hunleyd"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/github-fill.png"></a>
