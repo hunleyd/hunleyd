@@ -10,7 +10,6 @@ I've also been known to:
 * watch a good ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/film-line.png) or ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/tv-2-line.png) show
 * read a good ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/book-line.png)
 * play a game or two on my ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/playstation-fill.png)
-
 (feel free to ask me for recommendations)
 
 Occasionally, I'll even write about my exploits on my [blog](https://hunleyd.github.io)
