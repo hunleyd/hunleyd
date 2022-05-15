@@ -2834,7 +2834,7 @@ if i'm reading this correctly, the end result is correct with either statement? 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 528k out of 306m repositories</span>
+                                    <span class="gh">ranked 545k out of 306m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">38</div>
                                     </div>
@@ -3103,7 +3103,7 @@ if i'm reading this correctly, the end result is correct with either statement? 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2022, 02:01:02 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 15 May 2022, 03:01:01 (timezone America/New_York) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
