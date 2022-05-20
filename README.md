@@ -13,3 +13,6 @@ I like to keep busy learning new things (like [Ansible](https://www.ansible.com/
 </p>
 
 ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/hero_footer.jpg)
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hunleyd&loved=true&loved_style=3)[Latest tweets](https://github-readme-twitter.gazf.vercel.app/api?id=hunleyd)
+
