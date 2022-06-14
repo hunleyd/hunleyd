@@ -82,13 +82,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3108 Commits
+                            3109 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            232 Pull requests reviewed
+                            233 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            814 issue comments
+                            816 issue comments
                         </div>
                     </section>
                     <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.37217614024522" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="210.37217614024522" y="0" width="162.46278047641363" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="372.83495661665887" y="0" width="36.52841427435202" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="409.3633708910109" y="0" width="24.479207854213595" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="433.8425787452245" y="0" width="12.476792737323663" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="446.3193714825482" y="0" width="5.548060111898939" height="8" fill="#244776"/>
-                    <rect mask="url(#languages-bar)" x="451.8674315944471" y="0" width="4.0861874907961715" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.9536190852433" y="0" width="4.046380914756733" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.35471071657392" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="210.35471071657392" y="0" width="162.44929256492316" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="372.80400328149705" y="0" width="36.525381628861304" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="409.3293849103583" y="0" width="24.477175552489307" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="433.80656046284764" y="0" width="12.475756894679378" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.28231735752706" y="0" width="5.547599503361317" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="451.8299168608884" y="0" width="4.124038161161322" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.9539550220497" y="0" width="4.046044977950314" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2673,7 +2673,7 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.533333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="17.05 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2701,10 +2701,10 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                     <span class="prefix">Great</span>
                                     reviewer
                                     <div class="value-wrapper">
-                                        <div class="value">232</div>
+                                        <div class="value">233</div>
                                     </div>
                                 </div>
-                                <div class="text">Reviewed 232 pull requests</div>
+                                <div class="text">Reviewed 233 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3007,7 +3007,7 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jun 2022, 09:12:01 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 14 Jun 2022, 10:01:17 (timezone America/New_York) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
