@@ -2770,7 +2770,7 @@ it appears to be used for the key dir and the location of known_hosts ... do we 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 97.7k out of 328m repositories</span>
+                                    <span class="gh">ranked 97.8k out of 328m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">342</div>
                                     </div>
@@ -3001,7 +3001,7 @@ it appears to be used for the key dir and the location of known_hosts ... do we 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2022, 18:01:07 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 19:01:07 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
