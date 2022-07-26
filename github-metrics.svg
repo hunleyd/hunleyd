@@ -2770,7 +2770,7 @@ The Linux kernel's current default RLIMIT_NOFILE resource limit for userspace pr
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 97.6k out of 328m repositories</span>
+                                    <span class="gh">ranked 97.7k out of 328m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">342</div>
                                     </div>
@@ -3001,7 +3001,7 @@ The Linux kernel's current default RLIMIT_NOFILE resource limit for userspace pr
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2022, 03:01:22 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 04:01:09 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
