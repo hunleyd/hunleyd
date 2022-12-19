@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1608" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2008" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4699 Commits
+                            4488 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1137 issue comments
+                            1138 issue comments
                         </div>
                     </section>
                     <section>
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    8.89 GB used
+                                    8.90 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    15.2m added, 5.38m removed
+                                    17.8m added, 11.5m removed
                                 </div>
                             </section>
                             <section>
@@ -2347,80 +2347,700 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 147 commits in
+                                        <span class="repo">hunleyd/priv-all-ansible-roles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">wilson_and_me_on_a_raft</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1f0d9dc</div>
+                                        <div class="message">docs(patroni role): reorder and alphabetize (#1738)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a7cb8d</div>
+                                        <div class="message">docs(release notes): update the release notes for 1.14 (#1729)
+
+Co-authored-by: Keith Fiske &lt;keith@keithf4.com&gt;
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36fdce0</div>
+                                        <div class="message">A couple of misc fixes (#1731)
+
+* feature: add --query option to vartool
+
+* fix: don't assume version of SLES here</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01a52f6</div>
+                                        <div class="message">HA 1.14 docs updates - upgrade guide and other items (#1716)
+
+* Add 114 deprecated variables. Add start of 113 to 114 upgrade guide
+
+* Add new 114 upgrade doc files
+
+* fix: teach about role underscores and varnames with capital letters
+
+* update 114 upgrade language
+
+* Update grammar
+
+* Update hugo/content/include/upgrades/upgrading_crunchy_automation_0113_to_0114.md
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* Update hugo/content/include/upgrades/upgrading_crunchy_automation_0113_to_0114.md
+
+Co-authored-by: Jim Chanco Jr &lt;69092730+jchancojr@users.noreply.github.com&gt;
+
+* Remove = from limit. Add HA upgrade note to PG major upgrade.
+
+* Add missing documented variables
+
+* Document cruncyrepo variables
+
+* Apply suggestions from code review
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* doc update suggestions from doug
+
+* Add missing crunchyrepo and patroni variables
+
+* docs(patroni role docs): rename patroni_tags to patroni_user_tags
+
+In the Patroni role docs, rename the existing patroni_tags to patroni_user_tags. Additionally,
+update its context from group_var to host_var.
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* docs(haproxy role): add reference to patroni role's patroni_user_tags
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* Add postgresql tls dir variables
+
+* Update undocumented variables
+
+* Apply suggestions from code review
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* Apply suggestions from code review
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* Remove unused variables from documentation
+
+* Apply suggestions from code review
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* feature: explicitly allow extradocumented variables
+
+* Document pgbouncer databases.extra_args
+
+* Add defaults for backrest extra options
+
+* fix: add explicitly extra-documented vars
+
+* docs: typos and quickie edits
+
+* docs: update to account for postgresql_os_user
+
+* Update hugo/content/roles/patroni/_index.md
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* Apply suggestions from code review
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+Co-authored-by: Jim Chanco Jr &lt;69092730+jchancojr@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c549251</div>
+                                        <div class="message">remove extraneous debug statement (#1726)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81fcecf</div>
+                                        <div class="message">Various 1.14rc2 fixes (#1721)
+
+* fix: add explicit test for connecting to the patroni cluster via postgresql_os_user
+
+* docs(testind.md): update TESTING.md w/ the issue Yorvi identified and a few other tweaks
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix(preflight): add midding preflight to check is ssh keypair exists where user says it does
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix(preflight): really fix the stat on ssh keys this time. i swear
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix(backrest role defaults): change the defaults to include files_dir, cause yolo
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix: Add separate patroni override handling for externally_managed_users
+
+* feature: initial ansible-playbook docs shortcode
+
+* fix: wrong order for example cluster files
+
+* fix: make it so params can be provided with/without .yml suffix
+
+* fix: support suppressing the cluster file from output using "-"
+
+* fix: don't use files/ev prefix; that's presumptive
+
+* fix: add password field
+
+* doc: update existing doc ansible-playbook references to shortcode
+
+* fix: correct new vagrant hostnames
+
+* fix: explicitly add postgresql_super_pguser
+
+* Fixes for standalone PG externally managed users
+
+* fix: typo
+
+* fix: paste-o service name change
+
+* fix: create missing postgresql_home dir on user creaetion
+
+* docs(faq): add documentation for crunchy support playbook
+
+* Fix external users for patroni. Allow better hba options.
+
+* fix: add explicitly-undocumented vars
+
+* fix(playbooks): use jinja 'if' to deal w/ ansible 2.9.6 weirdness
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* Fix pg minor upgrade to revert community module changes
+
+* fix: correct an issue when `patroni_cluster_group[0]` is not in the play
+
+* Update crunchydata/pg/roles/postgresql/tasks/pre_minor_upgrade.yml
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix: clarify logic on the externally_managed_users os check
+
+* fix: message rewords per Doug
+
+* Simplify hba options key
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+Co-authored-by: Keith Fiske &lt;keith@keithf4.com&gt;
+Co-authored-by: Jim C Chanco Jr &lt;jchancojr@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1202bea</div>
+                                        <div class="message">feature: edit mode for docs, list vars by ref (#1713)
+
+* feature: edit mode for docs, list vars by ref
+
+* feature: allow nicer-formated editing of variables
+
+* feature: use nicer formatting in vartool -e
+
+* fix: add in new variables in the closest section
+
+* fix: support leading whitespace for nicer editing situations
+
+* fix: add input parsing to format_var, use instead</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cacde8c</div>
+                                        <div class="message">rrefactor(vagrant): update vagrant node hostnames to match libvirt (#1720)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17f0b2f</div>
+                                        <div class="message">refactor(vagrant): make the Vagrantfile leaner and meaner (#1719)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6425aa2</div>
+                                        <div class="message">fix(rc1): fix issues identified w/ 1.14rc1 (#1705)
+
+* fix(playbooks): teach the prepare playbook to use distribution_version and friends for sles
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix(postgresql handlers): have the handlers include the existing service tasks and not solo it
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix(postgresql handlers): stop the newly fixed handlers from running when patroni is involved lol
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix(playbooks): do not fail is backrest is not present
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix(playbooks): misc fixes when stuff is not found
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* Update TESTING doc for local pkg HA testing
+
+* fix(playbooks): correct the name displayed for the pg log dir task
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix(pgbench): the play must be limited, so use the batch host magic var as a target host
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix(playbook): use ansible_facts for registered variables
+
+re #1695
+
+* Revert "fix(playbook): use ansible_facts for registered variables"
+
+This reverts commit fb05d4bccb4f9901c4e542c2398d180d88ee4e80.
+
+* fix(playbooks): use ansible_facts to register variable so Ansible versions 2.9.6 or &lt; work
+
+* fix(playbooks): ansible_facts for pg_data_dir registered variables
+
+* fix(playbooks): ansible_facts for pg_log_dir registered variables
+
+* fix(playbooks): ansible_facts for pg_bin_dir registered variables
+
+* fix(playbooks): ansible_facts for pg_port registered variables
+
+* fix(playbooks): ansible_facts for pg_user registered variables
+
+* fix(playbooks): ansible_facts for backrest_user registered variables
+
+* fix(playbooks): make work on ansible &gt;= 2.9.27
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix: correct issues with patroni and postgres rundirs (affected multicluster)
+
+* fix: support multiple IPs in vm_ctl localrepo setup
+
+* fix: add postgresql_os_group default
+
+* fix: add missing become
+
+* fix(handler): do not call the start/listen handler during a pg major upgrade
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix: properly propagate errors from run_tests
+
+It's possible this omission was intentional, so we may end up reverting and adding to the specific
+call sites we care about, but let's catch it. (The one we care about is the automatic setup of the
+ansible host.)
+
+* fix: properly default pg_cluster_group as well
+
+* Revert usage of postgresql_info module
+
+* fix: add missing acl package for handling no-selinux properly
+
+* fix: remove jq testing requirement due to issues with C7 installation
+
+* chore: whack no-longer-needed playbook
+
+* feature: add support for merging in group_vars content
+
+* fix: add count for generated dirs to catch the merge/non-merge as well
+
+* fix: correct basename invocation
+
+* fix: correctly handle known_hosts for hybrid mode
+
+* fix: correct the hybrid-backrest test
+
+* fix: correct construct that for some reason did not work
+
+* fix: add suse package connect for ansible
+
+* fix: add fixes for 1.12 to work in current test environment
+
+* fix: use with_items instead of with_inventory_hostnames
+
+* feature: add merge_yaml helper, combine group_vars
+
+* fix: be explicit for password_encryption in 1.12 override file
+
+* fix: add missing group_vars
+
+* fix: hybrid test
+
+* fix: actually, you know, run the merge_group_vars test
+
+* fix: correct issues in merge_files test
+
+* fix: adjust indentation
+
+* fix: indentation
+
+* fix: correct registered var name
+
+* fix: ensure system is registered
+
+* fix: correct teset
+
+* 1.14rc1 Doc fixes (#5)
+
+* testing.md updates (#6)
+
+Co-authored-by: Jim C Chanco Jr &lt;jchancojr@gmail.com&gt;
+
+* fix: add missing file
+
+* fix: code review changes
+
+* doc fixups (#7)
+
+Co-authored-by: Jim C Chanco Jr &lt;jchancojr@gmail.com&gt;
+
+* fix: update docs/TESTING.md
+
+* fix: change cluster_name
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+Co-authored-by: Keith Fiske &lt;keith@keithf4.com&gt;
+Co-authored-by: Jim C Chanco Jr &lt;jchancojr@gmail.com&gt;
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Co-authored-by: Jim Chanco Jr &lt;69092730+jchancojr@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23886f0</div>
+                                        <div class="message">feat: add crunchy ha support playbook (#1617)
+
+* refactor: y u no haz mv module, ansible
+
+* chore: spelling
+
+* feat: add cleanup for localhost dir and mv to ansible_host dir
+
+* style: add "e.g." to examples
+
+* fix: issue with delegating to localhost due to missing venv dep
+
+* fix: typo
+
+* fix: add a test to exercise the support playbook
+
+* fix: don't use ansible_facts in hostvar lookup
+
+* fix: don't fail when trying to collect logs that may not exist
+
+* fix: remove special ansible_date_time var, use ansible_facts like we should
+
+* fix(playbooks): remove hostvars since localhost is in the original play now
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix(playbooks): set any_errors_fatal: true for only the 2 plays that it truly matters on
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* feat(playbooks): ensure cluster_name is defined
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* style(playbook): fqmn where we can
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* feat(playbook): do not fail for things that could be broken
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4b6022</div>
+                                        <div class="message">feature: use hard-coded HA version variable instead of the various detections (#1665)
+
+* feature: use hard-coded HA version variable instead of the various detections
+
+* fix: go ahead and increment now
+
+* fix: update format, make locking fact explicit, update RELEASE
+
+* fix: update internal default versions to 1.14 now that we have lock packages
+
+* fix: correctly tell the ansible host to use localrepo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c993d08</div>
+                                        <div class="message">Fix mdc tests, update vartool (#1680)
+
+* fix: add cluster_name to role defaults for prometheus
+
+* feature: view variable docs from vartool
+
+* fix: quickie formating fixes
+
+* fix: ensure password_encryption is set in generated cluster files
+
+* fix: just add a default cluster_name to generated cluster file
+
+* fix: add required password_encryption to other test files
+
+* fix: correct wrong variable name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7a2179</div>
+                                        <div class="message">Ensure minimual required backrest key variables are set (#1664)
+
+* Ensure minimual required backrest key variables are set
+
+* fix: exclude any previously-referenced options from the stanza file
+
+* fix: whack extra paren
+
+* Apply suggestions from code review
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* fix: update comment to note regex cleverness
+
+* fix: take my own advice and make this message consistent
+
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#605ca84</div>
+                                        <div class="message">fix: ensure the pgbackup-standalone-node-pitr works as intended (#1620)
+
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5f43e5</div>
+                                        <div class="message">feature: add vartool tool for inspection of rolevars of various sorts (#1651)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db9e316</div>
+                                        <div class="message">Fully support externally-managed users, distinct owner/group, and customized users for all services (#1608)
+
+* refactor: use common role to ensure users are properly handled
+
+* fix: separate out the pgmonitor OS and DB users
+
+* refactor: rename pgmonitor_password to pgmonitor_db_password
+
+* doc: clarify pgmonitor_db_user and pgmonitor_user split
+
+* doc: update pgmonitor_user -&gt; pgmonitor_db_user in proper places
+
+* fix: update test pgmonitor_db_user vars
+
+* fix: add pgmonitor_db_user to the test files
+
+* fix: error if we couldn't find the external user
+
+* fix: update tests
+
+* refactor: move override to common role
+
+* fix: include systemd reload unless suppressed
+
+* refactor: set overrides for all services
+
+* fix: add missing user in the add-user test
+
+* fix: correction of a couple missed pgmonitor_db_user instances
+
+* fix: replace hard-coded grafana users with required variables
+
+* fix: we don't otherwise track groups here, so might need to see about different variables
+
+* fix: validate patroni user/group are the same as postgresql user/group
+
+* fix: ensure pgmonitor_home ownership
+
+* fix: typo in key name
+
+* fix: ensure we are using proper pgmonitor_home for pgmonitor_user
+
+* fix: add missing backrest_cluster user creation
+
+* fix: add user overrides for postgres_exporter
+
+* fix: add missing pgmonitor_db_user to connection string
+
+* fix: introduce backrest_os_user and backrest_os_group in proper places
+
+* fix: add explicit file with vars (whoops!)
+
+* fix: use explicit vars for created home dirs
+
+* fix: ensure postgresql_home is owned by new users
+
+* fix: properly set haproxy's user/group overrides; can't be systemd
+
+* fix: explicitly sort out pgbouncer perm issues
+
+* fix: add etcd config dir to new ownership
+
+* fix: correct issues for ssh handling
+
+* fix: provide default value for the externally-managed users for all roles
+
+* fix: correct backwards-logic for creating missing group/user
+
+* fix: actually use postgresql variable here
+
+* fix: add missing postgresql_home
+
+* fix: remove explicit user usage, use variables
+
+* fix: remove now unneeded uid/gid preflight checks
+
+* fix: use backrest- and postgres-specific vars instead of -host-user
+
+* refactor: variable renames for all os variables
+
+* fix: add missing blackbox exporter override
+
+* fix: code review suggestions from @hunleyd
+
+* fix: updates per Doug
+
+* docs: document the new OS user/group variables
+
+* fix: update deprecated variables list
+
+* fix: reword task name to be clearer
+
+* fix: add postgresql_os_user default value back to backrest role
+
+* fix: ensure target_os_home affects existing users too
+
+* fix: install correct ansible version on R7
+
+* fix: install correct ansible repo for RHEL 8
+
+* fix: add handlers to ensure services are started
+
+* fix: remove special pgbouncer user handling for debian
+
+* fix: no need for `no_log` in internal playbook
+
+* fix: correct daemon name for backrest role</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#895d435</div>
+                                        <div class="message">update docs for 1.14 (#1592)
+
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Co-authored-by: Keith Fiske &lt;keith@keithf4.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df76b6b</div>
+                                        <div class="message">feat: use all balls in wait_for tasks (#1600)
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+Co-authored-by: Keith Fiske &lt;keith@keithf4.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#13f4de6</div>
+                                        <div class="message">Add more configurable blackbox exporter startup options (#1599)
+
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hunleyd/priv-all-ansible-roles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">wilson_and_me_on_a_raft</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fa1f825</div>
+                                        <div class="message">style: don't use `.` access method
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hunleyd/nuc_gentoo_home</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d51cb65</div>
+                                        <div class="message">chore: commit from .zlogout</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#1537 setup repo dependencies for patroni raft</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">CrunchyData/priv-all-ansible-roles</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#1873 Standalone logical restore from dump tar</span>
+                                        <span class="issue">#1537 setup repo dependencies for patroni raft</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by cbrianpace in <span class="repo">CrunchyData/priv-all-ansible-roles</span></div>
-                                    <div class="comment">pls make these vars_prompt</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1873 Standalone logical restore from dump tar</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by cbrianpace in <span class="repo">CrunchyData/priv-all-ansible-roles</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1873 Standalone logical restore from dump tar</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by cbrianpace in <span class="repo">CrunchyData/priv-all-ansible-roles</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1950 playbooks - add pg_config to crunchy support playbook</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by jchancojr in <span class="repo">CrunchyData/priv-all-ansible-roles</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#1989 Split out Alertmanager into its own role</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by keithf4 in <span class="repo">CrunchyData/priv-all-ansible-roles</span></div>
+                                    <div>opened by hunleyd in <span class="repo">CrunchyData/priv-all-ansible-roles</span></div>
+                                    <div class="comment">this is no longer needed since the prepare logic is being merged into the roles themselves</div>
                                 </div>
                             </section>
                         </div>
@@ -3056,7 +3676,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Dec 2022, 09:01:26 (timezone America/New_York) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 19 Dec 2022, 10:01:16 (timezone America/New_York) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
