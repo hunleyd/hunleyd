@@ -4,7 +4,7 @@
 <i>Hi, I'm Doug. Nice to meet you!</i>
 </p>
 
-I like to keep busy learning new things (like [Ansible](https://www.ansible.com/)), working with [PostgreSQL](https://www.postgresql.org/), automating my home with [Home Assistant](https://www.home-assistant.io/), or breaking my Linux box in new an interesting ways.
+I like to keep busy learning new things (like [Ansible](https://www.ansible.com/)), working with [PostgreSQL](https://www.postgresql.org/), automating my home with [Home Assistant](https://www.home-assistant.io/), or breaking my Linux box in new and interesting ways.
 
 ![Metrics](https://raw.githubusercontent.com/hunleyd/hunleyd/master/github-metrics.svg)
 
