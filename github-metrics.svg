@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1984" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1668" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4816 Commits
+                            4817 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    17.4m added, 11.3m removed
+                                    21.3m added, 11.3m removed
                                 </div>
                             </section>
                             <section>
@@ -2372,6 +2372,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#d9ffe9f</div>
+                                        <div class="message">chore: commit from .zlogout</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hunleyd/nuc_gentoo_home</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#0d7bcdf</div>
                                         <div class="message">chore: commit from .zlogout</div>
                                     </div>
@@ -2434,110 +2454,6 @@
                                     <div class="commit">
                                         <div class="sha">#1b087f2</div>
                                         <div class="message">chore: commit from .zlogout</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 27 commits in
-                                        <span class="repo">hunleyd/bento</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#76932b2</div>
-                                        <div class="message">Remove EOL FreeBSD 12.2/13.0 and add 12.4 (#1442)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#befdf3d</div>
-                                        <div class="message">Simplify the FreeBSD minimize script (#1451)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e75d9f2</div>
-                                        <div class="message">Remove extra checks from alma/rocky scripts (#1450)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24b5efe</div>
-                                        <div class="message">Fix failing Amazon Linux builds (#1449)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed85149</div>
-                                        <div class="message">Oracle Linux 8.6 -&gt; 8.7 and 9.0 -&gt; 9.1 (#1448)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0bb782</div>
-                                        <div class="message">Update the URL for the vagrant key (#1447)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#293118e</div>
-                                        <div class="message">Mark Fedora 37 as the latest (#1446)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66cdd5f</div>
-                                        <div class="message">Update Rocky Linux from 9.0 to 9.1 (#1445)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49a9dad</div>
-                                        <div class="message">Update opensuse 15.3 -&gt; 15.4 (#1443)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36b12df</div>
-                                        <div class="message">Make sure the uploaded dir is in git (#1441)
-
-The bento bin fails without this directory</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9b2249</div>
-                                        <div class="message">Swap Ubuntu 21.10 for 22.10 (#1440)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d881c8</div>
-                                        <div class="message">Update Debian 10 to 10.13 (#1439)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#512cc94</div>
-                                        <div class="message">remove network script to fix errors - this isn't needed. (#1438)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83cd517</div>
-                                        <div class="message">Bump rockylinux to 8.7 (#1436)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41881c6</div>
-                                        <div class="message">remove Fedora 35 (end of support), add Fedora 37 (#1435)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c5ab0b</div>
-                                        <div class="message">add fedora 36 arm64 packer template (#1409)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#845748e</div>
-                                        <div class="message">Add support for AlmaLinux 9 aarch64 parallels box (#1434)
-
-* Add support for AlmaLinux 9 aarch64</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9caa9eb</div>
-                                        <div class="message">Update templates for Debian 11.5 release (#1431)
-
-* Update templates for Debian 11.5 release</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e228bfa</div>
-                                        <div class="message">update ubuntu-20.04-arm64 iso image from v20.04.4 to v20.04.5 (#1430)
-
-Signed-off-by: Phillip Ross &lt;phillip.w.g.ross@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab15c0b</div>
-                                        <div class="message">Update Ubuntu 20.04 to 20.04.5 (#1429)</div>
                                     </div>
                                 </div>
                             </section>
@@ -3174,7 +3090,7 @@ Signed-off-by: Phillip Ross &lt;phillip.w.g.ross@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Dec 2022, 10:01:24 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 29 Dec 2022, 11:01:15 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
