@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1685" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1785" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    22.2m added, 11.7m removed
+                                    11.4m added, 5.39m removed
                                 </div>
                             </section>
                             <section>
@@ -2355,6 +2355,74 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">hunleyd/priv-all-ansible-roles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">because_it_zee_standard</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0a6dd35</div>
+                                        <div class="message">Merge remote-tracking branch 'upstream/development' into because_it_zee_standard
+
+* upstream/development:
+  feat(templates): add the crunchy ha version to all templates (#1992)
+  Deprecate the obsolete 1.16 (#2009)
+  feat(haproxy): add auto-refresh to the stats page and a var to set the interval (#1986)
+  feat(backrest): enable bundling by default for cloud repos (#2002)
+  feat: add semver version support to common role (#2004)
+  chore(all): update copyright notice (#2017)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ebfeb36</div>
+                                        <div class="message">feat(templates): add the crunchy ha version to all templates (#1992)
+
+closes https://github.com/CrunchyData/priv-all-ansible-roles/issues/1905</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f76479</div>
+                                        <div class="message">Deprecate the obsolete 1.16 (#2009)
+
+* feat: update vartool to support display any code uses for obsolete vars
+
+* fix: obsolete and remove variable usage identified by `vartool -O`
+
+* fix: update deprecation release docs
+
+* chore: add changelog
+
+* chore: varlife update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#217cfe8</div>
+                                        <div class="message">feat(haproxy): add auto-refresh to the stats page and a var to set the interval (#1986)
+
+closes https://github.com/CrunchyData/priv-all-ansible-roles/issues/1862</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3046030</div>
+                                        <div class="message">feat(backrest): enable bundling by default for cloud repos (#2002)
+
+closes https://github.com/CrunchyData/priv-all-ansible-roles/issues/1934</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#136df52</div>
+                                        <div class="message">feat: add semver version support to common role (#2004)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a5d190</div>
+                                        <div class="message">chore(all): update copyright notice (#2017)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">hunleyd/nuc_gentoo_home</span>
                                     </div>
@@ -2427,26 +2495,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#adadca7</div>
-                                        <div class="message">chore: commit from .zlogout</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hunleyd/nuc_gentoo_home</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#31ebdc8</div>
                                         <div class="message">chore: commit from .zlogout</div>
                                     </div>
                                 </div>
@@ -3084,7 +3132,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2023, 10:01:25 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 3 Jan 2023, 11:01:20 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
