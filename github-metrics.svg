@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1824" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1708" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5336 Commits
+                            5337 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    8.96m added, 7.63m removed
+                                    5.56m added, 266k removed
                                 </div>
                             </section>
                             <section>
@@ -326,7 +326,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 77 commits)</small>
+                    <small class="h-details">(computed from last 70 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2365,99 +2365,37 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
+                                        Pushed 1 commit in
+                                        <span class="repo">hunleyd/nuc_gentoo_home</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#23d156c</div>
+                                        <div class="message">chore: commit from .zlogout</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">hunleyd/priv-all-ansible-roles</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">grafana__ssl_where_it_belongs</span></div>
+                                    <div>on branch <span class="code">that_raft_sank_faster_than_the_titanic</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c9f2060</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/development' into grafana__ssl_where_it_belongs
+                                        <div class="sha">#1c5d2b0</div>
+                                        <div class="message">docs(changelog): correct tense
 
-* upstream/development:
-  refactor(firewalld): split computed vars from defaults/main out into vars/computed (#2098)
-  revert(backrest): remove the 'active repos' misfeature (#2037)
-  feat(postgresql): do not pollute /etc/ssl/certs when using TLS (#2046)
-  feat: teach task_checker `--only`, `reject_key`, and `when/register` (#2092)
-  refactor: move commands into own file rather than one giant file (#2086)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abe63e8</div>
-                                        <div class="message">refactor(firewalld): split computed vars from defaults/main out into vars/computed (#2098)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#375fb59</div>
-                                        <div class="message">revert(backrest): remove the 'active repos' misfeature (#2037)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76199ac</div>
-                                        <div class="message">feat(postgresql): do not pollute /etc/ssl/certs when using TLS (#2046)
-
-* feat(postgresql): do not pollute /etc/ssl/certs when using TLS
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* style(postgresql): lint/style changes
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* style(postgresql): style / lint fixups
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* feat(common): add crl and dh param dir defaults in crunchy_facts
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* refactor(postgresql): switch from ols tls_dir to new role-based tls vars; remove pg10 cruft
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* docs(varlife): update varlife
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* feat(postgres): add server TLS dirs
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* feat(postgresql): use new tls news
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* refactor(postgresql): account for role_name changing when under patroni
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* docs(postgresql): update hugo w/ the new tls world order
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* fix(postgresql): fix and simplify the max_conn computation. thx @pgguru
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* style(postgresql): edits from pr review
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-
-* fix: whack now obsolete variables
-
-* fix: fix bug if all int sha1 is generated
-
----------
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
-Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45b5710</div>
-                                        <div class="message">feat: teach task_checker `--only`, `reject_key`, and `when/register` (#2092)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#523bde8</div>
-                                        <div class="message">refactor: move commands into own file rather than one giant file (#2086)</div>
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2474,23 +2412,22 @@ Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;</div
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">grafana__what_is_a_default_anyway</span></div>
+                                    <div>on branch <span class="code">that_raft_sank_faster_than_the_titanic</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6e15603</div>
-                                        <div class="message">refactor(grafana): move some stuff back into defaults as per David. good looking out my man
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c707c46</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/development' into grafana__what_is_a_default_anyway
+                                        <div class="sha">#034ff98</div>
+                                        <div class="message">Merge remote-tracking branch 'upstream/development' into that_raft_sank_faster_than_the_titanic
 
 * upstream/development:
-  refactor(firewalld): split computed vars from defaults/main out into vars/computed (#2098)</div>
+  refactor(firewalld): split computed vars from defaults/main out into vars/computed (#2098)
+  revert(backrest): remove the 'active repos' misfeature (#2037)</div>
                                     </div>
                                     <div class="commit">
                                         <div class="sha">#abe63e8</div>
                                         <div class="message">refactor(firewalld): split computed vars from defaults/main out into vars/computed (#2098)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#375fb59</div>
+                                        <div class="message">revert(backrest): remove the 'active repos' misfeature (#2037)</div>
                                     </div>
                                 </div>
                             </section>
@@ -2503,12 +2440,17 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#2100 refactor(grafana): split computed vars from default/main out into vars/computed</span>
+                                        <span class="issue">#2027 feat(crunchyrepo): unless directed otherwise, fetch GPG keys from the AP</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by hunleyd in <span class="repo">CrunchyData/priv-all-ansible-roles</span></div>
-                                    <div class="comment">yeah, i blame the new crack dealer. i think he cuts his stuff with something else :)</div>
+                                    <div class="comment">
+                                        the point of fetching the key is to ensure the latest version of that key is always present. so if we said 'the key is on the box, skip fetching' (via
+                                        <code>creates</code>
+                                        ) and the key had changed, we'd never download it, yes?
+is that scenario likely? not based on history but are we sure that'll never change?
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2520,44 +2462,11 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#2100 refactor(grafana): split computed vars from default/main out into vars/computed</span>
+                                        <span class="issue">#2027 feat(crunchyrepo): unless directed otherwise, fetch GPG keys from the AP</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">CrunchyData/priv-all-ansible-roles</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">hunleyd/priv-all-ansible-roles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">haproxy__what_is_a_default_anyway</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#69a72af</div>
-                                        <div class="message">refactor(haproxy): move some stuff back into defaults as per David. good looking out my man
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6cb2e6</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/development' into haproxy__what_is_a_default_anyway
-
-* upstream/development:
-  refactor(firewalld): split computed vars from defaults/main out into vars/computed (#2098)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abe63e8</div>
-                                        <div class="message">refactor(firewalld): split computed vars from defaults/main out into vars/computed (#2098)</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3012,7 +2921,7 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.86m out of 379m repositories</span>
+                                    <span class="gh">ranked 1.89m out of 379m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -3160,7 +3069,7 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2023, 14:01:20 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 23 Feb 2023, 15:01:17 (timezone America/New_York) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
