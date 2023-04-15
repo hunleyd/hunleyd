@@ -3060,7 +3060,7 @@ Fix CI tests, postgresql_info and _subscription integration tests now use Postgr
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Apr 2023, 22:14:34 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Apr 2023, 23:01:05 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
