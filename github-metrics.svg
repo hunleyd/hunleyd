@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1735" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1768" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6327 Commits
+                            6331 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    14.9m added, 9.66m removed
+                                    23.7m added, 13.7m removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.23416724898735" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="207.23416724898735" y="0" width="161.240321077503" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="368.47448832649036" y="0" width="40.686590249300735" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="409.1610785757911" y="0" width="24.981341815595286" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="434.1424203913864" y="0" width="12.15960309550818" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="446.30202348689454" y="0" width="5.4690489786524985" height="8" fill="#244776"/>
-                    <rect mask="url(#languages-bar)" x="451.77107246554704" y="0" width="4.2401720122070214" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.011244477754" y="0" width="3.9887555222459308" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.23409889472543" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="207.23409889472543" y="0" width="161.24026789388333" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="368.4743667886088" y="0" width="40.686576829207496" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="409.16094361781626" y="0" width="24.981333575732123" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="434.1422771935484" y="0" width="12.159599084776236" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.30187627832464" y="0" width="5.469047174737579" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="451.7709234530622" y="0" width="4.240322340345758" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.0112457934079" y="0" width="3.9887542065920347" height="8" fill="#199f4b"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -326,7 +326,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 118 commits)</small>
+                    <small class="h-details">(computed from last 119 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2370,34 +2370,6 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">hunleyd/priv-all-ansible-roles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">development</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eed31b6</div>
-                                        <div class="message">fix(etcd): force the use of v2 API (#2293)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#314ef2c</div>
-                                        <div class="message">feat(all): drop SLES support (#2291)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4dca6b9</div>
-                                        <div class="message">feat(vagrant): configure tuned as we bring up vagrant boxes to eek out a little perf win (#2292)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">hunleyd/nuc_gentoo_home</span>
                                     </div>
@@ -2405,7 +2377,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c75c7bf</div>
+                                        <div class="sha">#754a080</div>
                                         <div class="message">chore: commit from .zlogout</div>
                                     </div>
                                 </div>
@@ -2418,51 +2390,295 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 6 commits in
                                         <span class="repo">hunleyd/priv-all-ansible-roles</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">alma</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ecaf564</div>
+                                        <div class="sha">#9828a11</div>
                                         <div class="message">Merge remote-tracking branch 'origin/balboa_ftw' into alma
 
-* origin/balboa_ftw:</div>
+* origin/balboa_ftw:
+  Update testing/support/os.fmf
+  Update testing/support/os.fmf</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cbf34f5</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/development' into balboa_ftw
-
-* upstream/development:
-  fix(etcd): force the use of v2 API (#2293)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">hunleyd/priv-all-ansible-roles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">alma</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dee1d04</div>
+                                        <div class="sha">#fd06b19</div>
                                         <div class="message">Merge remote-tracking branch 'upstream/development' into alma
 
 * upstream/development:
-  fix(etcd): force the use of v2 API (#2293)</div>
+  Updates for `ptt` tooling (#2276)</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#eed31b6</div>
-                                        <div class="message">fix(etcd): force the use of v2 API (#2293)</div>
+                                        <div class="sha">#4328d53</div>
+                                        <div class="message">Update testing/support/os.fmf
+
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff6eae6</div>
+                                        <div class="message">Update testing/support/os.fmf
+
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2756ba1</div>
+                                        <div class="message">Merge remote-tracking branch 'upstream/development' into balboa_ftw
+
+* upstream/development:
+  Updates for `ptt` tooling (#2276)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf6d0fe</div>
+                                        <div class="message">Updates for `ptt` tooling (#2276)
+
+* fix: stash specific git vars in the test invocation
+
+* fix: add locking to appropriate config bits
+
+* feat: hidden tool to expose OS vars, on the road to removing cruft
+
+This means to replace `baseimage`, `localrepo_path`, and `vagrantboxname`
+one-off/generated scripts.
+
+* fix: make logic in `bin/common` match the `ptt` equivalent
+
+* fix: whack localrepopath
+
+* fix: whack baseimagepath
+
+* fix: whack vagrantboxname
+
+* fix: lazy-import config so we don't instantiate the settings
+
+This is probably showing misbehavior in the loading of the metadata module, but
+at import time it gathers settings based on the environment. This non-lazy
+import resulted in that being gathered before the parse_paarrc() routine read
+any user vars from ~/.paarrc, so you only got default settings for the
+PAAR_FILES or PAAR_TMT_EV_FILES.
+
+Fix this way for now, but consider making that setup an explicit step rather
+than implicit for repo.
+
+* fix: don't die if the status file can't be read (say after restart)
+
+* feat: force running self-contained-tests through `ptt`
+
+The main reason for doing this is to support better refactoring and improvements
+going forward without needing to make changes in two separate test
+harnesses. (For instance if there are new environment vars or calculations, we
+can now just set them in `ptt` and the SCTs will inherit them automatically from
+the environment rather than needing to support adding to the SCT toolchain in
+the off chance that someone is invoking directly.)
+
+* feat: full manage_vms support
+
+* fix: a few interface fixes in preparation of python-specific vm_ctl
+
+* refactor: replace vm_ctl innards with `ptt vm` equivalent
+
+Keeping this as a shim for now for SCT testing, but removing some functionality
+that we are unlikely to need/use.
+
+Still to do: decide how we want to handle `localrepo` setup, since this seems to
+be currently done here; maybe we will reintroduce it, along with the `prepare`
+methods of `vm_ctl-vagrant`, but seems like a more general method of providing
+this via metadata may be desired.
+
+Do away with the vm_ctl hooks method entirely, as I don't think we're using that
+at all.
+
+* feat: utility to partition an iterable based on a predicate
+
+* fix: run vagrant command via the shell
+
+* refactor: be more pythonic with default-setting
+
+* feat: separate running tests from recent tests
+
+* feat: add metadata for future composable testing usage
+
+* fix: track changed list offsets
+
+* refactor: add prepare as distinct phase, additional fixes for vm_ctl
+
+* fix: remove old vestige of previous hardened support
+
+* feat: ensure boxes are up-to-date before resetting
+
+* fix: some bugs effecting testing; to be fixed more correcter laterer
+
+* fix: rework so we always display the section title
+
+* fix: make outtable() more robust
+
+* fix: nicer formatting
+
+* fix: adjust historical output
+
+* fix: remove trailing newline from final column
+
+* feat: make firstrun automatic so we can highlight features/info
+
+* fix: update slightly firstrun message for testing
+
+* fix: more firstrun message updates
+
+* fix: add status spinner to `ptt vm stop`
+
+* fix: refactor and fix an issue with localrepo detection
+
+* fix: correct old var usage
+
+* fix: error detecting inventory files from composable tests
+
+* fix: whack extra invocation
+
+* fix: re-include the common
+
+* fix: whack junk
+
+* fix: correct a couple of bugs
+
+* fix: remove now empty file
+
+* fix: create the sct-dirs in /tmp, not tmt tree
+
+* fix: remove empty file
+
+* fix: move self-contained test dirs under PAAR_TEST_DIR
+
+* feat: add vm-only setups for 2-node and 3-node environments
+
+* docs: update documentation with testing directory layout
+
+* fix: use `env` to locate python3 so it can run from local venv
+
+* fix: hooks for feature compatibility validation
+
+* fix: add vms-only to sct list
+
+* feat: add labels
+
+* fix: add invocation id to history output
+
+* feat: add feature dependency/conflict detection
+
+* feat: add features for old version of HA
+
+* fix: ensure features are unique
+
+* refactor: simplify the test run logic for sct/composable
+
+* fix: calculate the list of action keys
+
+* fix: expose 'info' in dashboard
+
+* fix: keep top menu aligned
+
+* feat: add Workdir class to built up/run programs
+
+* fix: store composed value for future
+
+* fix: actually provision our auxiliary services
+
+* feat: make ansible host an auxiliary service
+
+* fix: pass in os to the provision call
+
+* fix: add the PAAR_FULL_OS to the environment
+
+* feat: handle things nicer, return return val
+
+* fix: tweaks for run handling in WorkDir
+
+* feat: add S3 versions of previous HA versions
+
+* build(vagrant): new RHSM pool ids for the Vagrant boxes
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* Update changelogs/rhsm.yml
+
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* feat: add ev file support
+
+* fix: add explicit crunchy_ha_version to old installs
+
+* feat: add get() vm_ctl method to return a concrete VM object
+
+* feat: add ident property for VMs
+
+* feat: add identifier caching for auxililary services
+
+This prevents you from needing to reprovision a machine that already exists in
+the expected state.
+
+* fix: use a trivial default method instead of complaining
+
+* fix: make macname a global property instead
+
+* feat: make fastpath timeout for local VM
+
+* fix: go ahead and include os type in the identifier
+
+* fix: add more hardened options for deploying hardened successfully
+
+* fix: make script auto-resumable
+
+* fix: add globals.yml to build dir
+
+* feat: ensure `/usr/bin/python` exists
+
+* feat: add 1.14 specific package versions
+
+* feat: add copying of external ev files, mild refactor
+
+* feat: save composed ev params as file
+
+* feat: additional package fixes for old HA versions
+
+* fix: use strings in testing clusters for previous compatibility
+
+* fix: only update-alternatives on sles
+
+* feat: teach HA features about their upstream
+
+* fix: new internal command to map current paths to old releases
+
+* feat: when testing old versions, overwrite with inv, pb, gvs
+
+* fix: teach testmap about verify-cluster
+
+* fix: add correct pgbouncer version for HA 1.14
+
+* fix: add explicit postgresql_version to the pg axes
+
+* fix: file ending
+
+* feat: remove S15 testing support
+
+* fix: add more characters to the shortcut lists
+
+* fix: remove unnecessarily aggressive setting of python 3 alternative
+
+This is okay since we are not supporting SLES in dev.
+
+* fix: slight tweak to snapshot restoration logic
+
+* fix: whack no-longer needed "nobadger" feature
+
+---------
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+Signed-off-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2479,12 +2695,307 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">alma</span></div>
+                                    <div>on branch <span class="code">balboa_ftw</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a0febe5</div>
-                                        <div class="message">fix(common): add missing quote in list item
+                                        <div class="sha">#4328d53</div>
+                                        <div class="message">Update testing/support/os.fmf
 
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
 Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hunleyd/priv-all-ansible-roles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">balboa_ftw</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ff6eae6</div>
+                                        <div class="message">Update testing/support/os.fmf
+
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">hunleyd/priv-all-ansible-roles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">balboa_ftw</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2756ba1</div>
+                                        <div class="message">Merge remote-tracking branch 'upstream/development' into balboa_ftw
+
+* upstream/development:
+  Updates for `ptt` tooling (#2276)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf6d0fe</div>
+                                        <div class="message">Updates for `ptt` tooling (#2276)
+
+* fix: stash specific git vars in the test invocation
+
+* fix: add locking to appropriate config bits
+
+* feat: hidden tool to expose OS vars, on the road to removing cruft
+
+This means to replace `baseimage`, `localrepo_path`, and `vagrantboxname`
+one-off/generated scripts.
+
+* fix: make logic in `bin/common` match the `ptt` equivalent
+
+* fix: whack localrepopath
+
+* fix: whack baseimagepath
+
+* fix: whack vagrantboxname
+
+* fix: lazy-import config so we don't instantiate the settings
+
+This is probably showing misbehavior in the loading of the metadata module, but
+at import time it gathers settings based on the environment. This non-lazy
+import resulted in that being gathered before the parse_paarrc() routine read
+any user vars from ~/.paarrc, so you only got default settings for the
+PAAR_FILES or PAAR_TMT_EV_FILES.
+
+Fix this way for now, but consider making that setup an explicit step rather
+than implicit for repo.
+
+* fix: don't die if the status file can't be read (say after restart)
+
+* feat: force running self-contained-tests through `ptt`
+
+The main reason for doing this is to support better refactoring and improvements
+going forward without needing to make changes in two separate test
+harnesses. (For instance if there are new environment vars or calculations, we
+can now just set them in `ptt` and the SCTs will inherit them automatically from
+the environment rather than needing to support adding to the SCT toolchain in
+the off chance that someone is invoking directly.)
+
+* feat: full manage_vms support
+
+* fix: a few interface fixes in preparation of python-specific vm_ctl
+
+* refactor: replace vm_ctl innards with `ptt vm` equivalent
+
+Keeping this as a shim for now for SCT testing, but removing some functionality
+that we are unlikely to need/use.
+
+Still to do: decide how we want to handle `localrepo` setup, since this seems to
+be currently done here; maybe we will reintroduce it, along with the `prepare`
+methods of `vm_ctl-vagrant`, but seems like a more general method of providing
+this via metadata may be desired.
+
+Do away with the vm_ctl hooks method entirely, as I don't think we're using that
+at all.
+
+* feat: utility to partition an iterable based on a predicate
+
+* fix: run vagrant command via the shell
+
+* refactor: be more pythonic with default-setting
+
+* feat: separate running tests from recent tests
+
+* feat: add metadata for future composable testing usage
+
+* fix: track changed list offsets
+
+* refactor: add prepare as distinct phase, additional fixes for vm_ctl
+
+* fix: remove old vestige of previous hardened support
+
+* feat: ensure boxes are up-to-date before resetting
+
+* fix: some bugs effecting testing; to be fixed more correcter laterer
+
+* fix: rework so we always display the section title
+
+* fix: make outtable() more robust
+
+* fix: nicer formatting
+
+* fix: adjust historical output
+
+* fix: remove trailing newline from final column
+
+* feat: make firstrun automatic so we can highlight features/info
+
+* fix: update slightly firstrun message for testing
+
+* fix: more firstrun message updates
+
+* fix: add status spinner to `ptt vm stop`
+
+* fix: refactor and fix an issue with localrepo detection
+
+* fix: correct old var usage
+
+* fix: error detecting inventory files from composable tests
+
+* fix: whack extra invocation
+
+* fix: re-include the common
+
+* fix: whack junk
+
+* fix: correct a couple of bugs
+
+* fix: remove now empty file
+
+* fix: create the sct-dirs in /tmp, not tmt tree
+
+* fix: remove empty file
+
+* fix: move self-contained test dirs under PAAR_TEST_DIR
+
+* feat: add vm-only setups for 2-node and 3-node environments
+
+* docs: update documentation with testing directory layout
+
+* fix: use `env` to locate python3 so it can run from local venv
+
+* fix: hooks for feature compatibility validation
+
+* fix: add vms-only to sct list
+
+* feat: add labels
+
+* fix: add invocation id to history output
+
+* feat: add feature dependency/conflict detection
+
+* feat: add features for old version of HA
+
+* fix: ensure features are unique
+
+* refactor: simplify the test run logic for sct/composable
+
+* fix: calculate the list of action keys
+
+* fix: expose 'info' in dashboard
+
+* fix: keep top menu aligned
+
+* feat: add Workdir class to built up/run programs
+
+* fix: store composed value for future
+
+* fix: actually provision our auxiliary services
+
+* feat: make ansible host an auxiliary service
+
+* fix: pass in os to the provision call
+
+* fix: add the PAAR_FULL_OS to the environment
+
+* feat: handle things nicer, return return val
+
+* fix: tweaks for run handling in WorkDir
+
+* feat: add S3 versions of previous HA versions
+
+* build(vagrant): new RHSM pool ids for the Vagrant boxes
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* Update changelogs/rhsm.yml
+
+Co-authored-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+
+* feat: add ev file support
+
+* fix: add explicit crunchy_ha_version to old installs
+
+* feat: add get() vm_ctl method to return a concrete VM object
+
+* feat: add ident property for VMs
+
+* feat: add identifier caching for auxililary services
+
+This prevents you from needing to reprovision a machine that already exists in
+the expected state.
+
+* fix: use a trivial default method instead of complaining
+
+* fix: make macname a global property instead
+
+* feat: make fastpath timeout for local VM
+
+* fix: go ahead and include os type in the identifier
+
+* fix: add more hardened options for deploying hardened successfully
+
+* fix: make script auto-resumable
+
+* fix: add globals.yml to build dir
+
+* feat: ensure `/usr/bin/python` exists
+
+* feat: add 1.14 specific package versions
+
+* feat: add copying of external ev files, mild refactor
+
+* feat: save composed ev params as file
+
+* feat: additional package fixes for old HA versions
+
+* fix: use strings in testing clusters for previous compatibility
+
+* fix: only update-alternatives on sles
+
+* feat: teach HA features about their upstream
+
+* fix: new internal command to map current paths to old releases
+
+* feat: when testing old versions, overwrite with inv, pb, gvs
+
+* fix: teach testmap about verify-cluster
+
+* fix: add correct pgbouncer version for HA 1.14
+
+* fix: add explicit postgresql_version to the pg axes
+
+* fix: file ending
+
+* feat: remove S15 testing support
+
+* fix: add more characters to the shortcut lists
+
+* fix: remove unnecessarily aggressive setting of python 3 alternative
+
+This is okay since we are not supporting SLES in dev.
+
+* fix: slight tweak to snapshot restoration logic
+
+* fix: whack no-longer needed "nobadger" feature
+
+---------
+
+Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;
+Signed-off-by: David Christensen &lt;david.christensen@crunchydata.com&gt;
+Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2940,7 +3451,7 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.98m out of 405m repositories</span>
+                                    <span class="gh">ranked 2m out of 405m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -3088,7 +3599,7 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2023, 12:01:25 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Jun 2023, 13:01:05 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
