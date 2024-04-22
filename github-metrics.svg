@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1984" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1668" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.34m added, 296k removed
+                                    402k added, 248k removed
                                 </div>
                             </section>
                             <section>
@@ -2390,6 +2390,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#1cfba73</div>
+                                        <div class="message">chore: commit from .zlogout</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hunleyd/nuc_gentoo_home</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4bf5551</div>
                                         <div class="message">chore: commit from .zlogout</div>
                                     </div>
@@ -2454,143 +2474,6 @@ Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                     <div class="commit">
                                         <div class="sha">#f0a4094</div>
                                         <div class="message">chore: commit from .zlogout</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">cbrianpace/priv-all-ansible-roles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">bpace-ReplicationVerification</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#965467d</div>
-                                        <div class="message">refactor(roles): centralize postgresql_extensions to the common role (#2894)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96590ff</div>
-                                        <div class="message">refactor(roles): move pg_hba_dbowner_option to common role (#2903)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c6df86</div>
-                                        <div class="message">refactor(postgresql): remove postgresql_pgusers_no_password_changes as it is not used (#2898)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72c98cd</div>
-                                        <div class="message">refactor(patroni): move patroni_common_bootstrap_initdb to vars/computed (#2904)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c484983</div>
-                                        <div class="message">feat(postgresql): wipe the spool dir as well as data dir post-upgrade if the user wants us to (#2926)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6f2f19</div>
-                                        <div class="message">refactor(roles): move synchronize_use_ssh_args to common role (#2905)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ee16eb</div>
-                                        <div class="message">refactor(roles): move backrest_extra_options to common role (#2906)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46678e0</div>
-                                        <div class="message">refactor(roles): move postgresql_pgwal to common role (#2907)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4166933</div>
-                                        <div class="message">Update pre-commit hooks (#2927)
-
-Signed-off-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
-Co-authored-by: hunleyd &lt;2753418+hunleyd@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa2da7d</div>
-                                        <div class="message">refactor(roles): reduce the number of calls to the file module (#2915)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba27af8</div>
-                                        <div class="message">refactor(common): simplify some variable definitions since RHEL/CentOS 7 is not a factor anymore (#2920)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08a1620</div>
-                                        <div class="message">refactor(roles): move backrest_allowed_cns to common role (#2908)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee43cbb</div>
-                                        <div class="message">refactor(roles): remove all the validate_*_{g,u}id vars since they're dead code (#2912)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10e67b5</div>
-                                        <div class="message">refactor(backrest): remove the task that captures the backrest version since we don't use it later (#2924)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0e82b5</div>
-                                        <div class="message">fix(postgresql): remove backup_method from pg role as it is no longer used (#2918)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b5d080</div>
-                                        <div class="message">fix: move variables from playbooks when using common values (#2838)
-
-Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0c441b</div>
-                                        <div class="message">refactor(pgbouncer): remove dead role tasks (#2921)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9324ffd</div>
-                                        <div class="message">refactor(vagrant): switch the Vagrantfile from pool-id to account code (#2914)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5609d33</div>
-                                        <div class="message">chore(bom): bump bom components (#2916)
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45eab37</div>
-                                        <div class="message">fix: allow single node patroni during pg major upgrade (#2810)
-
-Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2923,7 +2806,7 @@ Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 90k out of 200m repositories</span>
+                                    <span class="gh">ranked 90k out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">502</div>
                                     </div>
@@ -3062,7 +2945,7 @@ Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.66m out of 200m repositories</span>
+                                    <span class="gh">ranked 2.66m out of 204m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -3156,7 +3039,7 @@ Co-authored-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2024, 17:01:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2024, 18:01:12 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
