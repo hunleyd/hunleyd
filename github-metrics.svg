@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1951" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1668" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    173k added, 36.7k removed
+                                    13m added, 3.97m removed
                                 </div>
                             </section>
                             <section>
@@ -2352,6 +2352,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">hunleyd/nuc_gentoo_home</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5a962fb</div>
+                                        <div class="message">chore: commit from .zlogout</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">hunleyd/nuc_gentoo_home</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4f320a5</div>
+                                        <div class="message">chore: commit from .zlogout</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">hunleyd/priv-all-ansible-roles</span>
                                     </div>
                                 </div>
@@ -2402,160 +2442,6 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                 <div class="details">
                                     <div> in <span class="repo">CrunchyData/priv-all-ansible-roles</span></div>
                                     <div>35 files changed <span class="code">++188 --171</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 18 commits in
-                                        <span class="repo">hunleyd/priv-all-ansible-roles</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">CPA-3847</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b0a92d0</div>
-                                        <div class="message">docs(changelog): add fragment
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f495e0b</div>
-                                        <div class="message">refactor(roles): make pg_compat the SoT for supported OS and OS versions
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66d21f0</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/CPA-4005' into CPA-3847
-
-* origin/CPA-4005:
-  refactor(common): merge pg_compat into vars/computed
-  chore(bom): updated BoM
-  docs(changelog): add oracle as a supported component
-  docs(hugo): update hugo to add oracle and remove c7/r7
-  feat(pkgmgr): add OEL 9 support
-  docs(hugo): keep the docs current w/ the code
-  fix(task_checker): since OEL doesn't have subscription-manager, add dnf_config_manager support
-  feat(roles): add support for Oracle Linux</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58ecaec</div>
-                                        <div class="message">chore(bom): update BoM
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a975486</div>
-                                        <div class="message">refactor(common): merge pg_compat into vars/computed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13c9dbe</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/CPA-3313' into CPA-4005
-
-* origin/CPA-3313:
-  chore(bom): updated BoM
-  docs(changelog): add oracle as a supported component
-  docs(hugo): update hugo to add oracle and remove c7/r7
-  feat(pkgmgr): add OEL 9 support
-  docs(hugo): keep the docs current w/ the code
-  fix(task_checker): since OEL doesn't have subscription-manager, add dnf_config_manager support
-  feat(roles): add support for Oracle Linux</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5784d33</div>
-                                        <div class="message">Merge branch 'development' into CPA-3313</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c23b669</div>
-                                        <div class="message">Merge branch 'development' into CPA-3313</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#394af64</div>
-                                        <div class="message">chore(bom): updated BoM
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdebb9d</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/development' into CPA-3313
-
-* upstream/development:
-  refactor(all): revert postgresql_version to plain var from crunchy_facts (#3105)
-  docs(docs): fix a typo for group_vars example (#3107)
-  fix(postgresql): ensure the handlers are notified when upgrading PG (#3104)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b7bd4e</div>
-                                        <div class="message">docs(changelog): add oracle as a supported component
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1585ee</div>
-                                        <div class="message">docs(hugo): update hugo to add oracle and remove c7/r7
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8d7bca</div>
-                                        <div class="message">feat(pkgmgr): add OEL 9 support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9407b60</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/development' into CPA-3313
-
-* upstream/development:
-  (bug) dev - preflight/tasks/preflight_local.yml  (#3090)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b878f4</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/development' into CPA-3313
-
-* upstream/development:
-  refactor(roles): drop stanza_name in favor of cluster_name everywhere (#3112)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fbbe3c</div>
-                                        <div class="message">docs(hugo): keep the docs current w/ the code
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f5317d</div>
-                                        <div class="message">fix(task_checker): since OEL doesn't have subscription-manager, add dnf_config_manager support
-
-Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ac99e5</div>
-                                        <div class="message">feat(roles): add support for Oracle Linux</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hunleyd/nuc_gentoo_home</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c89afd</div>
-                                        <div class="message">chore: commit from .zlogout</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2658,7 +2544,7 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.509240246406563 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.594113620807686 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2887,7 +2773,7 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 89.5k out of 207m repositories</span>
+                                    <span class="gh">ranked 89.5k out of 200m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">523</div>
                                     </div>
@@ -3026,7 +2912,7 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.22m out of 207m repositories</span>
+                                    <span class="gh">ranked 2.22m out of 200m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -3120,7 +3006,7 @@ Signed-off-by: Douglas J Hunley &lt;doug.hunley@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jul 2024, 16:00:58 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jul 2024, 17:00:59 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
