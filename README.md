@@ -12,17 +12,10 @@ I like to keep busy learning new things (like [Ansible](https://www.ansible.com/
 <a href="https://www.linkedin.com/in/dhunley"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/linkedin-box-fill.png"></a> <a rel="me" href="https://fosstodon.org/@hunleyd"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/mastodon.svg" width="24" height="24"></a> <a href="https://www.instagram.com/doughunley"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/instagram-fill.png"></a> <a href="https://github.com/hunleyd"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/github-fill.png"></a>
 </p>
 
-<div style="text-align: center;">
+<div style="margin-left: auto; margin-right: auto; width: 30%">
+
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hunleyd&loved=true&loved_style=3&count=4)
 </div>
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="https://lastfm-recently-played.vercel.app/api?                  user=hunleyd&loved=true&loved_style=3&count=4"
-    alt="My Scrobbles">
-</img>
 
 ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/hero_footer.jpg)
 
