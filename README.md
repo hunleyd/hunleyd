@@ -15,6 +15,14 @@ I like to keep busy learning new things (like [Ansible](https://www.ansible.com/
 <div style="text-align: center;">
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hunleyd&loved=true&loved_style=3&count=4)
 </div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="https://lastfm-recently-played.vercel.app/api?                  user=hunleyd&loved=true&loved_style=3&count=4"
+    alt="My Scrobbles">
+</img>
 
 ![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/hero_footer.jpg)
 
