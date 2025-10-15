@@ -5,7 +5,7 @@ const profile = {
   name: "Douglas Hunley",
   bio: "Linux Sys Admin, Gentoo user, PostgreSQL advocate, Ansible acolyte, Android fanboi, OSS supporter, PlayStation gamer.",
   currentWork: "Helping to make the Supabase PostgreSQL offering enterprise-ready.",
-  interests: "Working on my car,watching movies,reading books",
+  interests: "Working on my car,watching movies,reading books,jamming to music",
   skills: [
     "HTML5",
     "PostgreSQL",
