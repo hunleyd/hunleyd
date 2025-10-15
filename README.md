@@ -1,18 +1,130 @@
-![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/hero_header.jpg)
+# Douglas Hunley
 
-<p align=center>
-<i>Hi, I'm Doug. Nice to meet you!</i>
+```typescript
+const profile = {
+  name: "Douglas Hunley",
+  bio: "Linux Sys Admin, Gentoo user, PostgreSQL advocate, Ansible acolyte, Android fanboi, OSS supporter, PlayStation gamer.",
+  currentWork: "Helping to make the Supabase PostgreSQL offering enterprise-ready.",
+  interests: "Working on my car,watching movies,reading books",
+  skills: [
+    "HTML5",
+    "PostgreSQL",
+    "GitHub Actions",
+    "Ansible",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Go",
+    "Ruby"
+  ],
+}
+```
+
+## 🔭 I'm currently working on
+
+Helping to make the Supabase PostgreSQL offering enterprise-ready.
+
+## 👀 I'm interested in
+
+Working on my car, watching movies, reading books
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'hunleyd' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hunleyd&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
-I like to keep busy learning new things (like [Ansible](https://www.ansible.com/)), working with [PostgreSQL](https://www.postgresql.org/), automating my home with [Home Assistant](https://www.home-assistant.io/), or breaking my Linux box in new and interesting ways.
+## 📊 GitHub Stats
 
-![Metrics](https://raw.githubusercontent.com/hunleyd/hunleyd/master/github-metrics.svg)
+<!-- ⚠️ Important: Replace 'hunleyd' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hunleyd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-<p align=center>
-<a href="https://www.linkedin.com/in/dhunley"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/linkedin-box-fill.png"></a> <a rel="me" href="https://fosstodon.org/@hunleyd"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/mastodon.svg" width="24" height="24"></a> <a href="https://www.instagram.com/doughunley"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/instagram-fill.png"></a> <a href="https://github.com/hunleyd"><img src="https://raw.githubusercontent.com/hunleyd/hunleyd/master/github-fill.png"></a>
-</p>
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'hunleyd' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunleyd&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "HTML5"
+  ],
+  "backend": [
+    "PostgreSQL"
+  ],
+  "devops": [
+    "GitHub Actions",
+    "Ansible"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Go",
+    "Ruby"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "hunleyd",
+  linkedin: "dhunley",
+  website: "https://hunleyd.github.io",
+  instagram: "fstlzrd",
+  rss: "index.xml",
+}
+```
+
+<div>
+<a href="https://github.com/hunleyd"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dhunley"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://hunleyd.github.io"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://instagram.com/fstlzrd"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://hunleyd.github.io//index.xml"><img src="https://img.shields.io/badge/rss-%23000000.svg?style=for-the-badge&logo=rss&logoColor=white" /></a> 
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "doug.hunley@gmail.om",
+}
+```
+
+## 🚀 Open Source Contributions
+
+```javascript
+const contributions = [
+  {
+    project: "community.postgresql",
+    link: "https://github.com/ansible-collections/community.postgresql/",
+    description: "The Ansible community's PostgreSQL module"
+  }
+];
+```
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ansible-collections/community.postgresql/">community.postgresql</a></td>
+    <td>The Ansible community's PostgreSQL module</td>
+  </tr>
+</table>
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hunleyd&loved=true&loved_style=3&count=4)
 
-![](https://raw.githubusercontent.com/hunleyd/hunleyd/master/hero_footer.jpg)
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
 
+process.exit(0); // Until next time 👋
+```
