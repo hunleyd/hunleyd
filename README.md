@@ -105,8 +105,6 @@ const contributions = [
   </tr>
 </table>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hunleyd&loved=true&loved_style=3&count=4)
-
 ```typescript
 // Thanks for visiting my profile!
 console.log("Let's connect and collaborate on exciting projects!");
