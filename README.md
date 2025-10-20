@@ -4,29 +4,38 @@
 const profile = {
   name: "Douglas Hunley",
   bio: "Linux Sys Admin, Gentoo user, PostgreSQL advocate, Ansible acolyte, Android fanboi, OSS supporter, PlayStation gamer.",
-  currentWork: "Helping to make the Supabase PostgreSQL offering enterprise-ready.",
-  interests: "Working on my car,watching movies,reading books,jamming to music",
+  currentWork: "Making the Supabase PostgreSQL offering enterprise-ready.",
+  interests: "Working on my car, watching movies, reading books, jamming to music.",
   skills: [
-    "HTML5",
-    "PostgreSQL",
-    "GitHub Actions",
     "Ansible",
-    "JavaScript",
-    "TypeScript",
-    "Python",
+    "Bash",
+    "CyberSecurity",
+    "DNS",
+    "Git",
+    "GitHub Actions",
     "Go",
-    "Ruby"
+    "High Availability",
+    "HTML5",
+    "JavaScript",
+    "Linux",
+    "NTP",
+    "PostgreSQL",
+    "Python",
+    "Ruby",
+    "SQL",
+    "TypeScript",
+    "Vagrant"
   ],
 }
 ```
 
 ## 🔭 I'm currently working on
 
-Helping to make the Supabase PostgreSQL offering enterprise-ready.
+Making the Supabase PostgreSQL offering enterprise-ready.
 
 ## 👀 I'm interested in
 
-Working on my car, watching movies, reading books
+Working on my car, watching movies, reading books, jamming to <a href="https://www.last.fm/user/hunleyd">music</a>.
 
 ## 🏆 GitHub Trophies
 
@@ -39,7 +48,7 @@ Working on my car, watching movies, reading books
 
 <!-- ⚠️ Important: Replace 'hunleyd' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hunleyd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hunleyd&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
@@ -49,39 +58,15 @@ Working on my car, watching movies, reading books
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunleyd&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
-## 💻 Tech Stack
-
-```json
-{
-  "frontend": [
-    "HTML5"
-  ],
-  "backend": [
-    "PostgreSQL"
-  ],
-  "devops": [
-    "GitHub Actions",
-    "Ansible"
-  ],
-  "languages": [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Go",
-    "Ruby"
-  ]
-}
-```
-
 ## 🌐 Socials
 
 ```javascript
 const socials = {
-  github: "hunleyd",
-  linkedin: "dhunley",
+  github: "https://github.com/hunleyd",
+  linkedin: "https://www.linkedin.com/in/dhunley",
   website: "https://hunleyd.github.io",
-  instagram: "fstlzrd",
-  rss: "index.xml",
+  instagram: "https://instagram.com/fstlzrd",
+  rss: "https://hunleyd.github.io/index.xml",
 }
 ```
 
